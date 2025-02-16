@@ -7,9 +7,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:harry_potter/home_screen.dart';
+import 'package:harry_potter/ui/screens/home_screen.dart';
 
-import 'package:harry_potter/main.dart';
+import 'package:harry_potter/ui/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
